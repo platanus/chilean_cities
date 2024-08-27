@@ -431,7 +431,7 @@
         "region_iso_3166_2": "CL-VS"
     },
     {
-        "name": "Riconada",
+        "name": "Rinconada",
         "code": "05303",
         "provincia": "Los Andes",
         "region": "Valparaíso",
@@ -815,7 +815,7 @@
         "region_iso_3166_2": "CL-LI"
     },
     {
-        "name": "Marichihue",
+        "name": "Marchihue",
         "code": "06204",
         "provincia": "Cardenal Caro",
         "region": "Región del Libertador Gral. Bernardo O'Higgins",
@@ -1431,7 +1431,7 @@
         "region_iso_3166_2": "CL-AR"
     },
     {
-        "name": "Carahu",
+        "name": "Carahue",
         "code": "09102",
         "provincia": "Cautín",
         "region": "Región de la Araucanía",
@@ -1463,7 +1463,7 @@
         "region_iso_3166_2": "CL-AR"
     },
     {
-        "name": "Galvarin",
+        "name": "Galvarino",
         "code": "09106",
         "provincia": "Cautín",
         "region": "Región de la Araucanía",
@@ -1551,7 +1551,7 @@
         "region_iso_3166_2": "CL-AR"
     },
     {
-        "name": "Teodoro Schmid",
+        "name": "Teodoro Schmidt",
         "code": "09117",
         "provincia": "Cautín",
         "region": "Región de la Araucanía",
